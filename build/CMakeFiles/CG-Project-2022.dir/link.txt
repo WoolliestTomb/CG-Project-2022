@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/CG-Project-2022.dir/src/glad.c.o" "CMakeFiles/CG-Project-2022.dir/main.cpp.o" -o CG-Project-2022  -lGL -ldl -lglfw 

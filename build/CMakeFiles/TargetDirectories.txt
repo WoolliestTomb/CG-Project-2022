@@ -1,0 +1,3 @@
+/home/vinicius/CG-Project-2022/build/CMakeFiles/CG-Project-2022.dir
+/home/vinicius/CG-Project-2022/build/CMakeFiles/edit_cache.dir
+/home/vinicius/CG-Project-2022/build/CMakeFiles/rebuild_cache.dir
